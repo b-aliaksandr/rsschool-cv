@@ -21,3 +21,7 @@ Hello, I'm Barodzich Aliaksandr, a dedicated and enthusiastic developer speciali
 ## Code Examples
 - [Link to Code (GitHub)](https://github.com/b-aliaksandr/core-js-numbers/blob/d2e0a9be1f946378e164f0cb39e69ac1b9886b75/src/numbers-tasks.js#L267C1-L294C2)
   - The Core JS numbers module requires solving problems involving number operations. My role is to implement functions to solve these problems.
+
+## Work Experience
+### Trainee Angular Developer - Innowise Group, Polotsk (11.2021 - 03.2022)
+- In my most recent role as a Trainee Angular Developer at Innowise Group in Polotsk, I actively contributed to developing new features and maintaining the codebase. I had the opportunity to work on auto-generated forms based on schemas for bank clients, enhancing my proficiency in Angular and gaining valuable experience in collaborative development environments.
