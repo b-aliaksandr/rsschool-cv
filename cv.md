@@ -25,3 +25,12 @@ Hello, I'm Barodzich Aliaksandr, a dedicated and enthusiastic developer speciali
 ## Work Experience
 ### Trainee Angular Developer - Innowise Group, Polotsk (11.2021 - 03.2022)
 - In my most recent role as a Trainee Angular Developer at Innowise Group in Polotsk, I actively contributed to developing new features and maintaining the codebase. I had the opportunity to work on auto-generated forms based on schemas for bank clients, enhancing my proficiency in Angular and gaining valuable experience in collaborative development environments.
+
+## Education
+### Polotsk Technology College, Polotsk (2017)
+- I graduated from Polotsk Technology College in 2017, laying the foundation for my passion for technology and programming. This educational background, coupled with hands-on experience, has equipped me with a solid understanding of software development principles.
+
+- I am excited about the prospect of leveraging my skills and experiences to contribute to innovative projects and continue my journey of growth in the dynamic field of web and mobile development.
+
+## English Language
+- **Proficiency Level:** Pre-Intermediate
