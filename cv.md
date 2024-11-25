@@ -9,14 +9,13 @@
 
 ## Brief Self-Introduction
 
-Hello, I'm Barodzich Aliaksandr, a dedicated and enthusiastic developer specializing in web and mobile technologies. My skills span across various programming languages and frameworks, with a particular focus on JavaScript, Dart, Angular, Next.js, and Flutter. I am well-versed in agile and scrum methodologies, ensuring efficient and collaborative development processes.
+Hello, I'm Barodzich Aliaksandr, a passionate and detail-oriented developer specializing in modern web technologies. My expertise lies in JavaScript and Angular, complemented by a strong command of TypeScript, HTML, CSS. I am proficient in building scalable, user-friendly applications while leveraging agile and scrum methodologies to ensure efficient and collaborative development workflows.
 
 ## Skills
-- **Programming Languages:** Javascript, Dart
-- **Frameworks:** Angular, Next.js, Flutter
-- **Methodologies:** Agile, Scrum
+- **Programming Languages:** Javascript
+- **Frameworks:** Angular
 - **Version Control Systems:** Git
-- **Development Tools:** VS Code, Vim
+- **Development Tools:** VS Code
 
 ## Code Examples
 - [Link to Code (GitHub)](https://github.com/b-aliaksandr/core-js-numbers/blob/d2e0a9be1f946378e164f0cb39e69ac1b9886b75/src/numbers-tasks.js#L267C1-L294C2)
